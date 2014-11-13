@@ -1,0 +1,13 @@
+{
+    "name": "hat-framework/phpay",
+    "type": "project",
+    "description": "hatframework payment gatway methods",
+    "keywords": [],
+    "homepage": "https://github.com/hat-framework/hat-skeleton",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0",
+        "hatframework/basehat": "dev-master",
+        "hatframework/hatclasses": "dev-master"
+    }
+}
